@@ -38,16 +38,7 @@ Currently learning and building projects using the **MERN Stack** while explorin
 
 ---
 
-## 📂 Featured Projects  
 
-### 🌐 [Portfolio Website](https://github.com/username/portfolio)
-A personal portfolio showcasing my projects, skills, and achievements.
-
-### 💬 [Chat App](https://github.com/username/chat-app)
-A real-time chat application built using Node.js, Express, and Socket.io.
-
-### 🛍️ [E-Commerce Store](https://github.com/username/ecommerce)
-A MERN-based online shopping website with authentication and product management.
 
 ---
 

@@ -51,10 +51,10 @@ Currently learning and building projects using the **MERN Stack** while explorin
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/username)](https://www.linkedin.com/in/avanindra-tiwari-8ab19932a/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](avaninadratiwari9@gamil.com)
 
 ---
 
-⭐️ From [Avanindra Tiwari](https://github.com/username)
+⭐️ From [Avanindra Tiwari]([https://github.com/username](https://github.com/Avanindra-tiwari))
